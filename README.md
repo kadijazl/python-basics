@@ -1,2 +1,1 @@
-# Python Basics
-Personal reference
+### Python Basics (personal reference)
